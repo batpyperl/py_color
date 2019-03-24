@@ -9,3 +9,4 @@ init()
 
 # definition couleur
 green   = Fore.GREEN + Style.BRIGHT
+red     = Fore.RED   + Style.BRIGHT
